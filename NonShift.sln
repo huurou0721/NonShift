@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonShift", "NonShift\NonShift.csproj", "{D0EDE08C-8596-4127-93E5-B326D028B94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNonShift", "TestNonShift\TestNonShift.csproj", "{636450DF-1315-4D98-8818-842B486ACC15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0EDE08C-8596-4127-93E5-B326D028B94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EDE08C-8596-4127-93E5-B326D028B94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EDE08C-8596-4127-93E5-B326D028B94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EDE08C-8596-4127-93E5-B326D028B94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636450DF-1315-4D98-8818-842B486ACC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636450DF-1315-4D98-8818-842B486ACC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636450DF-1315-4D98-8818-842B486ACC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636450DF-1315-4D98-8818-842B486ACC15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A8BB83-FCAB-4AD8-8ABE-2AF34C1E7A40}
+	EndGlobalSection
+EndGlobal
